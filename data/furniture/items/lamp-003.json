@@ -1,0 +1,25 @@
+{
+  "id": "lamp-003",
+  "name": "Crystal Chandelier",
+  "type": "lamp",
+  "style": "contemporary luxury",
+  "colors": [
+    "clear",
+    "gold"
+  ],
+  "size": "medium",
+  "price": 899,
+  "model_url": "/models/lamp-003.glb",
+  "thumbnail": "/thumbs/lamp-003.jpg",
+  "dimensions": {
+    "width": 0.8,
+    "height": 0.6,
+    "depth": 0.8
+  },
+  "tags": [
+    "luxury",
+    "dramatic",
+    "bright",
+    "rich"
+  ]
+}

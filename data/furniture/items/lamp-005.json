@@ -1,0 +1,25 @@
+{
+  "id": "lamp-005",
+  "name": "Modern LED Desk Lamp",
+  "type": "lamp",
+  "style": "modern minimalist",
+  "colors": [
+    "white",
+    "silver"
+  ],
+  "size": "small",
+  "price": 79,
+  "model_url": "/models/lamp-005.glb",
+  "thumbnail": "/thumbs/lamp-005.jpg",
+  "dimensions": {
+    "width": 0.2,
+    "height": 0.45,
+    "depth": 0.15
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "clean",
+    "cool lighting"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rug-002",
+  "name": "Moroccan Shag Rug",
+  "type": "rug",
+  "style": "bohemian",
+  "colors": [
+    "white",
+    "cream"
+  ],
+  "size": "medium",
+  "price": 399,
+  "model_url": "/models/rug-002.glb",
+  "thumbnail": "/thumbs/rug-002.jpg",
+  "dimensions": {
+    "width": 2.0,
+    "height": 0.05,
+    "depth": 3.0
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "soft",
+    "neutral"
+  ]
+}

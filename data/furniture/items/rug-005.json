@@ -1,0 +1,25 @@
+{
+  "id": "rug-005",
+  "name": "Vintage Distressed Rug",
+  "type": "rug",
+  "style": "rustic farmhouse",
+  "colors": [
+    "blue",
+    "beige"
+  ],
+  "size": "large",
+  "price": 549,
+  "model_url": "/models/rug-005.glb",
+  "thumbnail": "/thumbs/rug-005.jpg",
+  "dimensions": {
+    "width": 2.3,
+    "height": 0.02,
+    "depth": 3.2
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "cozy"
+  ]
+}

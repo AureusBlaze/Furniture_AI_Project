@@ -1,0 +1,25 @@
+{
+  "id": "shelf-004",
+  "name": "Modern Glass Shelf",
+  "type": "shelf",
+  "style": "modern minimalist",
+  "colors": [
+    "clear",
+    "silver"
+  ],
+  "size": "medium",
+  "price": 199,
+  "model_url": "/models/shelf-004.glb",
+  "thumbnail": "/thumbs/shelf-004.jpg",
+  "dimensions": {
+    "width": 0.9,
+    "height": 1.5,
+    "depth": 0.3
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "clean"
+  ]
+}

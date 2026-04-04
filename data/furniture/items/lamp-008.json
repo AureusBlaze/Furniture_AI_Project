@@ -1,0 +1,25 @@
+{
+  "id": "lamp-008",
+  "name": "Coastal Rope Lamp",
+  "type": "lamp",
+  "style": "coastal beach",
+  "colors": [
+    "white",
+    "natural"
+  ],
+  "size": "small",
+  "price": 119,
+  "model_url": "/models/lamp-008.glb",
+  "thumbnail": "/thumbs/lamp-008.jpg",
+  "dimensions": {
+    "width": 0.3,
+    "height": 0.4,
+    "depth": 0.3
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

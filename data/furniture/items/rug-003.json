@@ -1,0 +1,25 @@
+{
+  "id": "rug-003",
+  "name": "Geometric Modern Rug",
+  "type": "rug",
+  "style": "modern minimalist",
+  "colors": [
+    "grey",
+    "white"
+  ],
+  "size": "medium",
+  "price": 299,
+  "model_url": "/models/rug-003.glb",
+  "thumbnail": "/thumbs/rug-003.jpg",
+  "dimensions": {
+    "width": 2.0,
+    "height": 0.02,
+    "depth": 2.8
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "clean"
+  ]
+}

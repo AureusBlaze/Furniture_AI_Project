@@ -1,0 +1,25 @@
+{
+  "id": "decor-003",
+  "name": "Vintage Mirror",
+  "type": "decor",
+  "style": "classic traditional",
+  "colors": [
+    "gold",
+    "brown"
+  ],
+  "size": "medium",
+  "price": 299,
+  "model_url": "/models/decor-003.glb",
+  "thumbnail": "/thumbs/decor-003.jpg",
+  "dimensions": {
+    "width": 0.8,
+    "height": 1.2,
+    "depth": 0.08
+  },
+  "tags": [
+    "classic",
+    "traditional",
+    "warm",
+    "rich"
+  ]
+}

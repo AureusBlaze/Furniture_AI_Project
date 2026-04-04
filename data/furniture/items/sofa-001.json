@@ -1,0 +1,25 @@
+{
+  "id": "sofa-001",
+  "name": "Modern Grey Sofa",
+  "type": "sofa",
+  "style": "modern minimalist",
+  "colors": [
+    "grey",
+    "white"
+  ],
+  "size": "large",
+  "price": 899,
+  "model_url": "/models/sofa-001.glb",
+  "thumbnail": "/thumbs/sofa-001.jpg",
+  "dimensions": {
+    "width": 2.2,
+    "height": 0.9,
+    "depth": 0.95
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "large space"
+  ]
+}

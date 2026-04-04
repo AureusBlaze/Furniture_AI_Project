@@ -1,0 +1,25 @@
+{
+  "id": "chair-007",
+  "name": "Mid-Century Walnut Chair",
+  "type": "chair",
+  "style": "mid-century modern",
+  "colors": [
+    "brown",
+    "orange"
+  ],
+  "size": "small",
+  "price": 479,
+  "model_url": "/models/chair-007.glb",
+  "thumbnail": "/thumbs/chair-007.jpg",
+  "dimensions": {
+    "width": 0.65,
+    "height": 0.88,
+    "depth": 0.7
+  },
+  "tags": [
+    "mid-century",
+    "retro",
+    "warm",
+    "wood"
+  ]
+}

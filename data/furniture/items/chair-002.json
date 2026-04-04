@@ -1,0 +1,25 @@
+{
+  "id": "chair-002",
+  "name": "Modern White Accent Chair",
+  "type": "chair",
+  "style": "modern minimalist",
+  "colors": [
+    "white",
+    "grey"
+  ],
+  "size": "small",
+  "price": 399,
+  "model_url": "/models/chair-002.glb",
+  "thumbnail": "/thumbs/chair-002.jpg",
+  "dimensions": {
+    "width": 0.75,
+    "height": 0.85,
+    "depth": 0.8
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "clean"
+  ]
+}

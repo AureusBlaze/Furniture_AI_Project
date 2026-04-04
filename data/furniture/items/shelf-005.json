@@ -1,0 +1,25 @@
+{
+  "id": "shelf-005",
+  "name": "Rustic Barnwood Shelf",
+  "type": "shelf",
+  "style": "rustic farmhouse",
+  "colors": [
+    "brown",
+    "wood"
+  ],
+  "size": "medium",
+  "price": 249,
+  "model_url": "/models/shelf-005.glb",
+  "thumbnail": "/thumbs/shelf-005.jpg",
+  "dimensions": {
+    "width": 1.1,
+    "height": 1.4,
+    "depth": 0.35
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "cozy"
+  ]
+}

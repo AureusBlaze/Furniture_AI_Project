@@ -1,0 +1,25 @@
+{
+  "id": "table-001",
+  "name": "Industrial Coffee Table",
+  "type": "table",
+  "style": "industrial",
+  "colors": [
+    "black",
+    "metal"
+  ],
+  "size": "medium",
+  "price": 349,
+  "model_url": "/models/table-001.glb",
+  "thumbnail": "/thumbs/table-001.jpg",
+  "dimensions": {
+    "width": 1.2,
+    "height": 0.45,
+    "depth": 0.6
+  },
+  "tags": [
+    "industrial",
+    "metal",
+    "dark",
+    "modern"
+  ]
+}

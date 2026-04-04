@@ -1,0 +1,25 @@
+{
+  "id": "lamp-002",
+  "name": "Industrial Pendant Light",
+  "type": "lamp",
+  "style": "industrial",
+  "colors": [
+    "black",
+    "metal"
+  ],
+  "size": "small",
+  "price": 179,
+  "model_url": "/models/lamp-002.glb",
+  "thumbnail": "/thumbs/lamp-002.jpg",
+  "dimensions": {
+    "width": 0.4,
+    "height": 0.5,
+    "depth": 0.4
+  },
+  "tags": [
+    "industrial",
+    "metal",
+    "dark",
+    "dramatic"
+  ]
+}

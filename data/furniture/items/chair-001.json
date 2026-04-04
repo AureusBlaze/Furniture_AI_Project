@@ -1,0 +1,25 @@
+{
+  "id": "chair-001",
+  "name": "Classic Wooden Chair",
+  "type": "chair",
+  "style": "classic traditional",
+  "colors": [
+    "brown",
+    "wood"
+  ],
+  "size": "small",
+  "price": 299,
+  "model_url": "/models/chair-001.glb",
+  "thumbnail": "/thumbs/chair-001.jpg",
+  "dimensions": {
+    "width": 0.55,
+    "height": 0.95,
+    "depth": 0.55
+  },
+  "tags": [
+    "classic",
+    "wooden",
+    "traditional",
+    "warm"
+  ]
+}

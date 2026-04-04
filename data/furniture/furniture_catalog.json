@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "sofa-001",
+    "name": "Modern Grey Sofa",
+    "type": "sofa",
+    "style": "modern minimalist",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "size": "large",
+    "price": 899,
+    "model_url": "/models/sofa-001.glb",
+    "thumbnail": "/thumbs/sofa-001.jpg",
+    "dimensions": {
+      "width": 2.2,
+      "height": 0.9,
+      "depth": 0.95
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "large space"
+    ]
+  },
+  {
+    "id": "sofa-002",
+    "name": "Velvet Blue Sofa",
+    "type": "sofa",
+    "style": "contemporary luxury",
+    "colors": [
+      "blue",
+      "navy"
+    ],
+    "size": "large",
+    "price": 1299,
+    "model_url": "/models/sofa-002.glb",
+    "thumbnail": "/thumbs/sofa-002.jpg",
+    "dimensions": {
+      "width": 2.4,
+      "height": 0.85,
+      "depth": 1.0
+    },
+    "tags": [
+      "luxury",
+      "cool",
+      "modern",
+      "soft"
+    ]
+  },
+  {
+    "id": "sofa-003",
+    "name": "Classic Brown Leather Sofa",
+    "type": "sofa",
+    "style": "classic traditional",
+    "colors": [
+      "brown",
+      "leather"
+    ],
+    "size": "large",
+    "price": 1499,
+    "model_url": "/models/sofa-003.glb",
+    "thumbnail": "/thumbs/sofa-003.jpg",
+    "dimensions": {
+      "width": 2.3,
+      "height": 0.9,
+      "depth": 0.95
+    },
+    "tags": [
+      "classic",
+      "warm",
+      "traditional",
+      "leather"
+    ]
+  },
+  {
+    "id": "sofa-004",
+    "name": "Scandinavian White Sofa",
+    "type": "sofa",
+    "style": "scandinavian",
+    "colors": [
+      "white",
+      "cream"
+    ],
+    "size": "medium",
+    "price": 799,
+    "model_url": "/models/sofa-004.glb",
+    "thumbnail": "/thumbs/sofa-004.jpg",
+    "dimensions": {
+      "width": 2.0,
+      "height": 0.8,
+      "depth": 0.9
+    },
+    "tags": [
+      "scandinavian",
+      "bright",
+      "minimalist",
+      "clean"
+    ]
+  },
+  {
+    "id": "sofa-005",
+    "name": "Bohemian Pattern Sofa",
+    "type": "sofa",
+    "style": "bohemian",
+    "colors": [
+      "orange",
+      "brown"
+    ],
+    "size": "medium",
+    "price": 999,
+    "model_url": "/models/sofa-005.glb",
+    "thumbnail": "/thumbs/sofa-005.jpg",
+    "dimensions": {
+      "width": 2.1,
+      "height": 0.85,
+      "depth": 0.92
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "warm",
+      "colorful"
+    ]
+  },
+  {
+    "id": "sofa-006",
+    "name": "Industrial Grey Sectional",
+    "type": "sofa",
+    "style": "industrial",
+    "colors": [
+      "grey",
+      "charcoal"
+    ],
+    "size": "large",
+    "price": 1199,
+    "model_url": "/models/sofa-006.glb",
+    "thumbnail": "/thumbs/sofa-006.jpg",
+    "dimensions": {
+      "width": 2.8,
+      "height": 0.85,
+      "depth": 1.6
+    },
+    "tags": [
+      "industrial",
+      "dark",
+      "modern",
+      "metal"
+    ]
+  },
+  {
+    "id": "sofa-007",
+    "name": "Mid-Century Green Sofa",
+    "type": "sofa",
+    "style": "mid-century modern",
+    "colors": [
+      "green",
+      "olive"
+    ],
+    "size": "medium",
+    "price": 1099,
+    "model_url": "/models/sofa-007.glb",
+    "thumbnail": "/thumbs/sofa-007.jpg",
+    "dimensions": {
+      "width": 2.15,
+      "height": 0.82,
+      "depth": 0.88
+    },
+    "tags": [
+      "mid-century",
+      "retro",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "sofa-008",
+    "name": "Coastal Beige Sofa",
+    "type": "sofa",
+    "style": "coastal beach",
+    "colors": [
+      "beige",
+      "white"
+    ],
+    "size": "large",
+    "price": 949,
+    "model_url": "/models/sofa-008.glb",
+    "thumbnail": "/thumbs/sofa-008.jpg",
+    "dimensions": {
+      "width": 2.25,
+      "height": 0.88,
+      "depth": 0.93
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  },
+  {
+    "id": "sofa-009",
+    "name": "Art Deco Black Sofa",
+    "type": "sofa",
+    "style": "art deco",
+    "colors": [
+      "black",
+      "gold"
+    ],
+    "size": "medium",
+    "price": 1599,
+    "model_url": "/models/sofa-009.glb",
+    "thumbnail": "/thumbs/sofa-009.jpg",
+    "dimensions": {
+      "width": 2.1,
+      "height": 0.87,
+      "depth": 0.9
+    },
+    "tags": [
+      "art deco",
+      "luxury",
+      "dark",
+      "dramatic"
+    ]
+  },
+  {
+    "id": "sofa-010",
+    "name": "Rustic Linen Sofa",
+    "type": "sofa",
+    "style": "rustic farmhouse",
+    "colors": [
+      "beige",
+      "natural"
+    ],
+    "size": "large",
+    "price": 849,
+    "model_url": "/models/sofa-010.glb",
+    "thumbnail": "/thumbs/sofa-010.jpg",
+    "dimensions": {
+      "width": 2.3,
+      "height": 0.9,
+      "depth": 0.95
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "cozy"
+    ]
+  },
+  {
+    "id": "chair-001",
+    "name": "Classic Wooden Chair",
+    "type": "chair",
+    "style": "classic traditional",
+    "colors": [
+      "brown",
+      "wood"
+    ],
+    "size": "small",
+    "price": 299,
+    "model_url": "/models/chair-001.glb",
+    "thumbnail": "/thumbs/chair-001.jpg",
+    "dimensions": {
+      "width": 0.55,
+      "height": 0.95,
+      "depth": 0.55
+    },
+    "tags": [
+      "classic",
+      "wooden",
+      "traditional",
+      "warm"
+    ]
+  },
+  {
+    "id": "chair-002",
+    "name": "Modern White Accent Chair",
+    "type": "chair",
+    "style": "modern minimalist",
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "size": "small",
+    "price": 399,
+    "model_url": "/models/chair-002.glb",
+    "thumbnail": "/thumbs/chair-002.jpg",
+    "dimensions": {
+      "width": 0.75,
+      "height": 0.85,
+      "depth": 0.8
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "clean"
+    ]
+  },
+  {
+    "id": "chair-003",
+    "name": "Velvet Emerald Armchair",
+    "type": "chair",
+    "style": "contemporary luxury",
+    "colors": [
+      "green",
+      "emerald"
+    ],
+    "size": "small",
+    "price": 549,
+    "model_url": "/models/chair-003.glb",
+    "thumbnail": "/thumbs/chair-003.jpg",
+    "dimensions": {
+      "width": 0.8,
+      "height": 0.9,
+      "depth": 0.85
+    },
+    "tags": [
+      "luxury",
+      "modern",
+      "rich",
+      "soft"
+    ]
+  },
+  {
+    "id": "chair-004",
+    "name": "Rattan Peacock Chair",
+    "type": "chair",
+    "style": "bohemian",
+    "colors": [
+      "brown",
+      "natural"
+    ],
+    "size": "medium",
+    "price": 449,
+    "model_url": "/models/chair-004.glb",
+    "thumbnail": "/thumbs/chair-004.jpg",
+    "dimensions": {
+      "width": 0.85,
+      "height": 1.5,
+      "depth": 0.7
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "natural",
+      "warm"
+    ]
+  },
+  {
+    "id": "chair-005",
+    "name": "Industrial Metal Chair",
+    "type": "chair",
+    "style": "industrial",
+    "colors": [
+      "black",
+      "metal"
+    ],
+    "size": "small",
+    "price": 249,
+    "model_url": "/models/chair-005.glb",
+    "thumbnail": "/thumbs/chair-005.jpg",
+    "dimensions": {
+      "width": 0.5,
+      "height": 0.85,
+      "depth": 0.5
+    },
+    "tags": [
+      "industrial",
+      "metal",
+      "dark",
+      "modern"
+    ]
+  },
+  {
+    "id": "chair-006",
+    "name": "Scandinavian Oak Chair",
+    "type": "chair",
+    "style": "scandinavian",
+    "colors": [
+      "white",
+      "wood"
+    ],
+    "size": "small",
+    "price": 329,
+    "model_url": "/models/chair-006.glb",
+    "thumbnail": "/thumbs/chair-006.jpg",
+    "dimensions": {
+      "width": 0.52,
+      "height": 0.82,
+      "depth": 0.52
+    },
+    "tags": [
+      "scandinavian",
+      "minimalist",
+      "bright",
+      "natural"
+    ]
+  },
+  {
+    "id": "chair-007",
+    "name": "Mid-Century Walnut Chair",
+    "type": "chair",
+    "style": "mid-century modern",
+    "colors": [
+      "brown",
+      "orange"
+    ],
+    "size": "small",
+    "price": 479,
+    "model_url": "/models/chair-007.glb",
+    "thumbnail": "/thumbs/chair-007.jpg",
+    "dimensions": {
+      "width": 0.65,
+      "height": 0.88,
+      "depth": 0.7
+    },
+    "tags": [
+      "mid-century",
+      "retro",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "chair-008",
+    "name": "Coastal Wicker Chair",
+    "type": "chair",
+    "style": "coastal beach",
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "size": "small",
+    "price": 279,
+    "model_url": "/models/chair-008.glb",
+    "thumbnail": "/thumbs/chair-008.jpg",
+    "dimensions": {
+      "width": 0.7,
+      "height": 0.9,
+      "depth": 0.75
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  },
+  {
+    "id": "chair-009",
+    "name": "Art Deco Gold Chair",
+    "type": "chair",
+    "style": "art deco",
+    "colors": [
+      "gold",
+      "black"
+    ],
+    "size": "small",
+    "price": 599,
+    "model_url": "/models/chair-009.glb",
+    "thumbnail": "/thumbs/chair-009.jpg",
+    "dimensions": {
+      "width": 0.6,
+      "height": 0.92,
+      "depth": 0.6
+    },
+    "tags": [
+      "art deco",
+      "luxury",
+      "dramatic",
+      "metal"
+    ]
+  },
+  {
+    "id": "chair-010",
+    "name": "Farmhouse Rocking Chair",
+    "type": "chair",
+    "style": "rustic farmhouse",
+    "colors": [
+      "white",
+      "wood"
+    ],
+    "size": "medium",
+    "price": 349,
+    "model_url": "/models/chair-010.glb",
+    "thumbnail": "/thumbs/chair-010.jpg",
+    "dimensions": {
+      "width": 0.65,
+      "height": 1.1,
+      "depth": 0.9
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "cozy"
+    ]
+  },
+  {
+    "id": "table-001",
+    "name": "Industrial Coffee Table",
+    "type": "table",
+    "style": "industrial",
+    "colors": [
+      "black",
+      "metal"
+    ],
+    "size": "medium",
+    "price": 349,
+    "model_url": "/models/table-001.glb",
+    "thumbnail": "/thumbs/table-001.jpg",
+    "dimensions": {
+      "width": 1.2,
+      "height": 0.45,
+      "depth": 0.6
+    },
+    "tags": [
+      "industrial",
+      "metal",
+      "dark",
+      "modern"
+    ]
+  },
+  {
+    "id": "table-002",
+    "name": "Glass Modern Table",
+    "type": "table",
+    "style": "modern minimalist",
+    "colors": [
+      "clear",
+      "silver"
+    ],
+    "size": "medium",
+    "price": 499,
+    "model_url": "/models/table-002.glb",
+    "thumbnail": "/thumbs/table-002.jpg",
+    "dimensions": {
+      "width": 1.4,
+      "height": 0.75,
+      "depth": 0.8
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "clean"
+    ]
+  },
+  {
+    "id": "table-003",
+    "name": "Rustic Oak Dining Table",
+    "type": "table",
+    "style": "rustic farmhouse",
+    "colors": [
+      "brown",
+      "wood"
+    ],
+    "size": "large",
+    "price": 899,
+    "model_url": "/models/table-003.glb",
+    "thumbnail": "/thumbs/table-003.jpg",
+    "dimensions": {
+      "width": 1.8,
+      "height": 0.76,
+      "depth": 0.9
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "table-004",
+    "name": "Marble Luxury Table",
+    "type": "table",
+    "style": "contemporary luxury",
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "size": "medium",
+    "price": 1199,
+    "model_url": "/models/table-004.glb",
+    "thumbnail": "/thumbs/table-004.jpg",
+    "dimensions": {
+      "width": 1.5,
+      "height": 0.5,
+      "depth": 0.75
+    },
+    "tags": [
+      "luxury",
+      "modern",
+      "clean",
+      "rich"
+    ]
+  },
+  {
+    "id": "table-005",
+    "name": "Scandinavian Pine Table",
+    "type": "table",
+    "style": "scandinavian",
+    "colors": [
+      "white",
+      "wood"
+    ],
+    "size": "medium",
+    "price": 399,
+    "model_url": "/models/table-005.glb",
+    "thumbnail": "/thumbs/table-005.jpg",
+    "dimensions": {
+      "width": 1.3,
+      "height": 0.74,
+      "depth": 0.75
+    },
+    "tags": [
+      "scandinavian",
+      "minimalist",
+      "bright",
+      "natural"
+    ]
+  },
+  {
+    "id": "table-006",
+    "name": "Bohemian Mosaic Table",
+    "type": "table",
+    "style": "bohemian",
+    "colors": [
+      "blue",
+      "brown"
+    ],
+    "size": "small",
+    "price": 299,
+    "model_url": "/models/table-006.glb",
+    "thumbnail": "/thumbs/table-006.jpg",
+    "dimensions": {
+      "width": 0.6,
+      "height": 0.55,
+      "depth": 0.6
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "colorful",
+      "warm"
+    ]
+  },
+  {
+    "id": "table-007",
+    "name": "Mid-Century Teak Table",
+    "type": "table",
+    "style": "mid-century modern",
+    "colors": [
+      "brown",
+      "wood"
+    ],
+    "size": "medium",
+    "price": 649,
+    "model_url": "/models/table-007.glb",
+    "thumbnail": "/thumbs/table-007.jpg",
+    "dimensions": {
+      "width": 1.4,
+      "height": 0.72,
+      "depth": 0.8
+    },
+    "tags": [
+      "mid-century",
+      "retro",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "table-008",
+    "name": "Coastal Driftwood Table",
+    "type": "table",
+    "style": "coastal beach",
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "size": "small",
+    "price": 349,
+    "model_url": "/models/table-008.glb",
+    "thumbnail": "/thumbs/table-008.jpg",
+    "dimensions": {
+      "width": 1.0,
+      "height": 0.5,
+      "depth": 0.5
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  },
+  {
+    "id": "table-009",
+    "name": "Art Deco Lacquer Table",
+    "type": "table",
+    "style": "art deco",
+    "colors": [
+      "black",
+      "gold"
+    ],
+    "size": "medium",
+    "price": 799,
+    "model_url": "/models/table-009.glb",
+    "thumbnail": "/thumbs/table-009.jpg",
+    "dimensions": {
+      "width": 1.2,
+      "height": 0.48,
+      "depth": 0.65
+    },
+    "tags": [
+      "art deco",
+      "luxury",
+      "dark",
+      "dramatic"
+    ]
+  },
+  {
+    "id": "table-010",
+    "name": "Classic Mahogany Table",
+    "type": "table",
+    "style": "classic traditional",
+    "colors": [
+      "brown",
+      "red"
+    ],
+    "size": "large",
+    "price": 1099,
+    "model_url": "/models/table-010.glb",
+    "thumbnail": "/thumbs/table-010.jpg",
+    "dimensions": {
+      "width": 1.6,
+      "height": 0.76,
+      "depth": 0.9
+    },
+    "tags": [
+      "classic",
+      "traditional",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "lamp-001",
+    "name": "Scandinavian Floor Lamp",
+    "type": "lamp",
+    "style": "scandinavian",
+    "colors": [
+      "white",
+      "wood"
+    ],
+    "size": "small",
+    "price": 129,
+    "model_url": "/models/lamp-001.glb",
+    "thumbnail": "/thumbs/lamp-001.jpg",
+    "dimensions": {
+      "width": 0.35,
+      "height": 1.65,
+      "depth": 0.35
+    },
+    "tags": [
+      "scandinavian",
+      "minimalist",
+      "bright",
+      "warm lighting"
+    ]
+  },
+  {
+    "id": "lamp-002",
+    "name": "Industrial Pendant Light",
+    "type": "lamp",
+    "style": "industrial",
+    "colors": [
+      "black",
+      "metal"
+    ],
+    "size": "small",
+    "price": 179,
+    "model_url": "/models/lamp-002.glb",
+    "thumbnail": "/thumbs/lamp-002.jpg",
+    "dimensions": {
+      "width": 0.4,
+      "height": 0.5,
+      "depth": 0.4
+    },
+    "tags": [
+      "industrial",
+      "metal",
+      "dark",
+      "dramatic"
+    ]
+  },
+  {
+    "id": "lamp-003",
+    "name": "Crystal Chandelier",
+    "type": "lamp",
+    "style": "contemporary luxury",
+    "colors": [
+      "clear",
+      "gold"
+    ],
+    "size": "medium",
+    "price": 899,
+    "model_url": "/models/lamp-003.glb",
+    "thumbnail": "/thumbs/lamp-003.jpg",
+    "dimensions": {
+      "width": 0.8,
+      "height": 0.6,
+      "depth": 0.8
+    },
+    "tags": [
+      "luxury",
+      "dramatic",
+      "bright",
+      "rich"
+    ]
+  },
+  {
+    "id": "lamp-004",
+    "name": "Bohemian Rattan Lamp",
+    "type": "lamp",
+    "style": "bohemian",
+    "colors": [
+      "brown",
+      "natural"
+    ],
+    "size": "small",
+    "price": 99,
+    "model_url": "/models/lamp-004.glb",
+    "thumbnail": "/thumbs/lamp-004.jpg",
+    "dimensions": {
+      "width": 0.3,
+      "height": 0.45,
+      "depth": 0.3
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "warm",
+      "natural"
+    ]
+  },
+  {
+    "id": "lamp-005",
+    "name": "Modern LED Desk Lamp",
+    "type": "lamp",
+    "style": "modern minimalist",
+    "colors": [
+      "white",
+      "silver"
+    ],
+    "size": "small",
+    "price": 79,
+    "model_url": "/models/lamp-005.glb",
+    "thumbnail": "/thumbs/lamp-005.jpg",
+    "dimensions": {
+      "width": 0.2,
+      "height": 0.45,
+      "depth": 0.15
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "clean",
+      "cool lighting"
+    ]
+  },
+  {
+    "id": "lamp-006",
+    "name": "Farmhouse Lantern Lamp",
+    "type": "lamp",
+    "style": "rustic farmhouse",
+    "colors": [
+      "brown",
+      "metal"
+    ],
+    "size": "small",
+    "price": 149,
+    "model_url": "/models/lamp-006.glb",
+    "thumbnail": "/thumbs/lamp-006.jpg",
+    "dimensions": {
+      "width": 0.25,
+      "height": 0.55,
+      "depth": 0.25
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "cozy"
+    ]
+  },
+  {
+    "id": "lamp-007",
+    "name": "Mid-Century Arc Lamp",
+    "type": "lamp",
+    "style": "mid-century modern",
+    "colors": [
+      "gold",
+      "white"
+    ],
+    "size": "medium",
+    "price": 249,
+    "model_url": "/models/lamp-007.glb",
+    "thumbnail": "/thumbs/lamp-007.jpg",
+    "dimensions": {
+      "width": 0.4,
+      "height": 1.8,
+      "depth": 0.6
+    },
+    "tags": [
+      "mid-century",
+      "retro",
+      "warm",
+      "dramatic"
+    ]
+  },
+  {
+    "id": "lamp-008",
+    "name": "Coastal Rope Lamp",
+    "type": "lamp",
+    "style": "coastal beach",
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "size": "small",
+    "price": 119,
+    "model_url": "/models/lamp-008.glb",
+    "thumbnail": "/thumbs/lamp-008.jpg",
+    "dimensions": {
+      "width": 0.3,
+      "height": 0.4,
+      "depth": 0.3
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  },
+  {
+    "id": "lamp-009",
+    "name": "Art Deco Sconce",
+    "type": "lamp",
+    "style": "art deco",
+    "colors": [
+      "gold",
+      "black"
+    ],
+    "size": "small",
+    "price": 199,
+    "model_url": "/models/lamp-009.glb",
+    "thumbnail": "/thumbs/lamp-009.jpg",
+    "dimensions": {
+      "width": 0.2,
+      "height": 0.35,
+      "depth": 0.15
+    },
+    "tags": [
+      "art deco",
+      "luxury",
+      "dramatic",
+      "warm lighting"
+    ]
+  },
+  {
+    "id": "lamp-010",
+    "name": "Classic Tiffany Lamp",
+    "type": "lamp",
+    "style": "classic traditional",
+    "colors": [
+      "green",
+      "gold"
+    ],
+    "size": "small",
+    "price": 349,
+    "model_url": "/models/lamp-010.glb",
+    "thumbnail": "/thumbs/lamp-010.jpg",
+    "dimensions": {
+      "width": 0.35,
+      "height": 0.6,
+      "depth": 0.35
+    },
+    "tags": [
+      "classic",
+      "traditional",
+      "warm",
+      "colorful"
+    ]
+  },
+  {
+    "id": "shelf-001",
+    "name": "Bohemian Bookshelf",
+    "type": "shelf",
+    "style": "bohemian",
+    "colors": [
+      "brown",
+      "natural"
+    ],
+    "size": "large",
+    "price": 449,
+    "model_url": "/models/shelf-001.glb",
+    "thumbnail": "/thumbs/shelf-001.jpg",
+    "dimensions": {
+      "width": 1.2,
+      "height": 1.8,
+      "depth": 0.35
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "warm",
+      "colorful"
+    ]
+  },
+  {
+    "id": "shelf-002",
+    "name": "Industrial Pipe Shelf",
+    "type": "shelf",
+    "style": "industrial",
+    "colors": [
+      "black",
+      "wood"
+    ],
+    "size": "medium",
+    "price": 299,
+    "model_url": "/models/shelf-002.glb",
+    "thumbnail": "/thumbs/shelf-002.jpg",
+    "dimensions": {
+      "width": 1.0,
+      "height": 1.2,
+      "depth": 0.3
+    },
+    "tags": [
+      "industrial",
+      "metal",
+      "dark",
+      "modern"
+    ]
+  },
+  {
+    "id": "shelf-003",
+    "name": "Scandinavian Floating Shelf",
+    "type": "shelf",
+    "style": "scandinavian",
+    "colors": [
+      "white",
+      "wood"
+    ],
+    "size": "small",
+    "price": 89,
+    "model_url": "/models/shelf-003.glb",
+    "thumbnail": "/thumbs/shelf-003.jpg",
+    "dimensions": {
+      "width": 0.8,
+      "height": 0.05,
+      "depth": 0.2
+    },
+    "tags": [
+      "scandinavian",
+      "minimalist",
+      "bright",
+      "clean"
+    ]
+  },
+  {
+    "id": "shelf-004",
+    "name": "Modern Glass Shelf",
+    "type": "shelf",
+    "style": "modern minimalist",
+    "colors": [
+      "clear",
+      "silver"
+    ],
+    "size": "medium",
+    "price": 199,
+    "model_url": "/models/shelf-004.glb",
+    "thumbnail": "/thumbs/shelf-004.jpg",
+    "dimensions": {
+      "width": 0.9,
+      "height": 1.5,
+      "depth": 0.3
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "clean"
+    ]
+  },
+  {
+    "id": "shelf-005",
+    "name": "Rustic Barnwood Shelf",
+    "type": "shelf",
+    "style": "rustic farmhouse",
+    "colors": [
+      "brown",
+      "wood"
+    ],
+    "size": "medium",
+    "price": 249,
+    "model_url": "/models/shelf-005.glb",
+    "thumbnail": "/thumbs/shelf-005.jpg",
+    "dimensions": {
+      "width": 1.1,
+      "height": 1.4,
+      "depth": 0.35
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "cozy"
+    ]
+  },
+  {
+    "id": "shelf-006",
+    "name": "Luxury Walnut Shelf",
+    "type": "shelf",
+    "style": "contemporary luxury",
+    "colors": [
+      "brown",
+      "gold"
+    ],
+    "size": "large",
+    "price": 599,
+    "model_url": "/models/shelf-006.glb",
+    "thumbnail": "/thumbs/shelf-006.jpg",
+    "dimensions": {
+      "width": 1.4,
+      "height": 2.0,
+      "depth": 0.4
+    },
+    "tags": [
+      "luxury",
+      "modern",
+      "rich",
+      "warm"
+    ]
+  },
+  {
+    "id": "shelf-007",
+    "name": "Mid-Century Etagere",
+    "type": "shelf",
+    "style": "mid-century modern",
+    "colors": [
+      "brown",
+      "metal"
+    ],
+    "size": "large",
+    "price": 499,
+    "model_url": "/models/shelf-007.glb",
+    "thumbnail": "/thumbs/shelf-007.jpg",
+    "dimensions": {
+      "width": 1.0,
+      "height": 1.75,
+      "depth": 0.35
+    },
+    "tags": [
+      "mid-century",
+      "retro",
+      "warm",
+      "metal"
+    ]
+  },
+  {
+    "id": "shelf-008",
+    "name": "Coastal Whitewash Shelf",
+    "type": "shelf",
+    "style": "coastal beach",
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "size": "medium",
+    "price": 179,
+    "model_url": "/models/shelf-008.glb",
+    "thumbnail": "/thumbs/shelf-008.jpg",
+    "dimensions": {
+      "width": 0.85,
+      "height": 1.3,
+      "depth": 0.3
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  },
+  {
+    "id": "shelf-009",
+    "name": "Art Deco Mirrored Shelf",
+    "type": "shelf",
+    "style": "art deco",
+    "colors": [
+      "gold",
+      "mirror"
+    ],
+    "size": "medium",
+    "price": 449,
+    "model_url": "/models/shelf-009.glb",
+    "thumbnail": "/thumbs/shelf-009.jpg",
+    "dimensions": {
+      "width": 1.0,
+      "height": 1.6,
+      "depth": 0.3
+    },
+    "tags": [
+      "art deco",
+      "luxury",
+      "dramatic",
+      "rich"
+    ]
+  },
+  {
+    "id": "shelf-010",
+    "name": "Classic Mahogany Shelf",
+    "type": "shelf",
+    "style": "classic traditional",
+    "colors": [
+      "brown",
+      "red"
+    ],
+    "size": "large",
+    "price": 549,
+    "model_url": "/models/shelf-010.glb",
+    "thumbnail": "/thumbs/shelf-010.jpg",
+    "dimensions": {
+      "width": 1.3,
+      "height": 1.9,
+      "depth": 0.4
+    },
+    "tags": [
+      "classic",
+      "traditional",
+      "warm",
+      "wood"
+    ]
+  },
+  {
+    "id": "rug-001",
+    "name": "Persian Red Rug",
+    "type": "rug",
+    "style": "classic traditional",
+    "colors": [
+      "red",
+      "gold"
+    ],
+    "size": "large",
+    "price": 799,
+    "model_url": "/models/rug-001.glb",
+    "thumbnail": "/thumbs/rug-001.jpg",
+    "dimensions": {
+      "width": 2.5,
+      "height": 0.02,
+      "depth": 3.5
+    },
+    "tags": [
+      "classic",
+      "traditional",
+      "warm",
+      "rich"
+    ]
+  },
+  {
+    "id": "rug-002",
+    "name": "Moroccan Shag Rug",
+    "type": "rug",
+    "style": "bohemian",
+    "colors": [
+      "white",
+      "cream"
+    ],
+    "size": "medium",
+    "price": 399,
+    "model_url": "/models/rug-002.glb",
+    "thumbnail": "/thumbs/rug-002.jpg",
+    "dimensions": {
+      "width": 2.0,
+      "height": 0.05,
+      "depth": 3.0
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "soft",
+      "neutral"
+    ]
+  },
+  {
+    "id": "rug-003",
+    "name": "Geometric Modern Rug",
+    "type": "rug",
+    "style": "modern minimalist",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "size": "medium",
+    "price": 299,
+    "model_url": "/models/rug-003.glb",
+    "thumbnail": "/thumbs/rug-003.jpg",
+    "dimensions": {
+      "width": 2.0,
+      "height": 0.02,
+      "depth": 2.8
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "clean"
+    ]
+  },
+  {
+    "id": "rug-004",
+    "name": "Jute Natural Rug",
+    "type": "rug",
+    "style": "coastal beach",
+    "colors": [
+      "beige",
+      "natural"
+    ],
+    "size": "large",
+    "price": 249,
+    "model_url": "/models/rug-004.glb",
+    "thumbnail": "/thumbs/rug-004.jpg",
+    "dimensions": {
+      "width": 2.4,
+      "height": 0.03,
+      "depth": 3.3
+    },
+    "tags": [
+      "coastal",
+      "natural",
+      "airy",
+      "warm"
+    ]
+  },
+  {
+    "id": "rug-005",
+    "name": "Vintage Distressed Rug",
+    "type": "rug",
+    "style": "rustic farmhouse",
+    "colors": [
+      "blue",
+      "beige"
+    ],
+    "size": "large",
+    "price": 549,
+    "model_url": "/models/rug-005.glb",
+    "thumbnail": "/thumbs/rug-005.jpg",
+    "dimensions": {
+      "width": 2.3,
+      "height": 0.02,
+      "depth": 3.2
+    },
+    "tags": [
+      "rustic",
+      "farmhouse",
+      "warm",
+      "cozy"
+    ]
+  },
+  {
+    "id": "decor-001",
+    "name": "Abstract Canvas Art",
+    "type": "decor",
+    "style": "modern minimalist",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "size": "medium",
+    "price": 199,
+    "model_url": "/models/decor-001.glb",
+    "thumbnail": "/thumbs/decor-001.jpg",
+    "dimensions": {
+      "width": 1.0,
+      "height": 0.8,
+      "depth": 0.05
+    },
+    "tags": [
+      "modern",
+      "minimalist",
+      "neutral",
+      "dramatic"
+    ]
+  },
+  {
+    "id": "decor-002",
+    "name": "Macrame Wall Hanging",
+    "type": "decor",
+    "style": "bohemian",
+    "colors": [
+      "white",
+      "cream"
+    ],
+    "size": "medium",
+    "price": 89,
+    "model_url": "/models/decor-002.glb",
+    "thumbnail": "/thumbs/decor-002.jpg",
+    "dimensions": {
+      "width": 0.6,
+      "height": 1.0,
+      "depth": 0.05
+    },
+    "tags": [
+      "bohemian",
+      "eclectic",
+      "natural",
+      "warm"
+    ]
+  },
+  {
+    "id": "decor-003",
+    "name": "Vintage Mirror",
+    "type": "decor",
+    "style": "classic traditional",
+    "colors": [
+      "gold",
+      "brown"
+    ],
+    "size": "medium",
+    "price": 299,
+    "model_url": "/models/decor-003.glb",
+    "thumbnail": "/thumbs/decor-003.jpg",
+    "dimensions": {
+      "width": 0.8,
+      "height": 1.2,
+      "depth": 0.08
+    },
+    "tags": [
+      "classic",
+      "traditional",
+      "warm",
+      "rich"
+    ]
+  },
+  {
+    "id": "decor-004",
+    "name": "Metal Wall Sculpture",
+    "type": "decor",
+    "style": "industrial",
+    "colors": [
+      "black",
+      "metal"
+    ],
+    "size": "medium",
+    "price": 249,
+    "model_url": "/models/decor-004.glb",
+    "thumbnail": "/thumbs/decor-004.jpg",
+    "dimensions": {
+      "width": 0.9,
+      "height": 0.7,
+      "depth": 0.1
+    },
+    "tags": [
+      "industrial",
+      "metal",
+      "dark",
+      "modern"
+    ]
+  },
+  {
+    "id": "decor-005",
+    "name": "Coastal Shell Frame",
+    "type": "decor",
+    "style": "coastal beach",
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "size": "small",
+    "price": 59,
+    "model_url": "/models/decor-005.glb",
+    "thumbnail": "/thumbs/decor-005.jpg",
+    "dimensions": {
+      "width": 0.4,
+      "height": 0.5,
+      "depth": 0.05
+    },
+    "tags": [
+      "coastal",
+      "bright",
+      "airy",
+      "natural"
+    ]
+  }
+]

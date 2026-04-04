@@ -1,0 +1,25 @@
+{
+  "id": "table-005",
+  "name": "Scandinavian Pine Table",
+  "type": "table",
+  "style": "scandinavian",
+  "colors": [
+    "white",
+    "wood"
+  ],
+  "size": "medium",
+  "price": 399,
+  "model_url": "/models/table-005.glb",
+  "thumbnail": "/thumbs/table-005.jpg",
+  "dimensions": {
+    "width": 1.3,
+    "height": 0.74,
+    "depth": 0.75
+  },
+  "tags": [
+    "scandinavian",
+    "minimalist",
+    "bright",
+    "natural"
+  ]
+}

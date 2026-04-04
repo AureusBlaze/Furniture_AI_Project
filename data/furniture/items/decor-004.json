@@ -1,0 +1,25 @@
+{
+  "id": "decor-004",
+  "name": "Metal Wall Sculpture",
+  "type": "decor",
+  "style": "industrial",
+  "colors": [
+    "black",
+    "metal"
+  ],
+  "size": "medium",
+  "price": 249,
+  "model_url": "/models/decor-004.glb",
+  "thumbnail": "/thumbs/decor-004.jpg",
+  "dimensions": {
+    "width": 0.9,
+    "height": 0.7,
+    "depth": 0.1
+  },
+  "tags": [
+    "industrial",
+    "metal",
+    "dark",
+    "modern"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lamp-001",
+  "name": "Scandinavian Floor Lamp",
+  "type": "lamp",
+  "style": "scandinavian",
+  "colors": [
+    "white",
+    "wood"
+  ],
+  "size": "small",
+  "price": 129,
+  "model_url": "/models/lamp-001.glb",
+  "thumbnail": "/thumbs/lamp-001.jpg",
+  "dimensions": {
+    "width": 0.35,
+    "height": 1.65,
+    "depth": 0.35
+  },
+  "tags": [
+    "scandinavian",
+    "minimalist",
+    "bright",
+    "warm lighting"
+  ]
+}

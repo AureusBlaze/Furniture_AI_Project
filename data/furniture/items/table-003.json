@@ -1,0 +1,25 @@
+{
+  "id": "table-003",
+  "name": "Rustic Oak Dining Table",
+  "type": "table",
+  "style": "rustic farmhouse",
+  "colors": [
+    "brown",
+    "wood"
+  ],
+  "size": "large",
+  "price": 899,
+  "model_url": "/models/table-003.glb",
+  "thumbnail": "/thumbs/table-003.jpg",
+  "dimensions": {
+    "width": 1.8,
+    "height": 0.76,
+    "depth": 0.9
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "wood"
+  ]
+}

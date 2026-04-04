@@ -1,0 +1,25 @@
+{
+  "id": "sofa-009",
+  "name": "Art Deco Black Sofa",
+  "type": "sofa",
+  "style": "art deco",
+  "colors": [
+    "black",
+    "gold"
+  ],
+  "size": "medium",
+  "price": 1599,
+  "model_url": "/models/sofa-009.glb",
+  "thumbnail": "/thumbs/sofa-009.jpg",
+  "dimensions": {
+    "width": 2.1,
+    "height": 0.87,
+    "depth": 0.9
+  },
+  "tags": [
+    "art deco",
+    "luxury",
+    "dark",
+    "dramatic"
+  ]
+}

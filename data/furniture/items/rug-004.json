@@ -1,0 +1,25 @@
+{
+  "id": "rug-004",
+  "name": "Jute Natural Rug",
+  "type": "rug",
+  "style": "coastal beach",
+  "colors": [
+    "beige",
+    "natural"
+  ],
+  "size": "large",
+  "price": 249,
+  "model_url": "/models/rug-004.glb",
+  "thumbnail": "/thumbs/rug-004.jpg",
+  "dimensions": {
+    "width": 2.4,
+    "height": 0.03,
+    "depth": 3.3
+  },
+  "tags": [
+    "coastal",
+    "natural",
+    "airy",
+    "warm"
+  ]
+}

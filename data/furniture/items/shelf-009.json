@@ -1,0 +1,25 @@
+{
+  "id": "shelf-009",
+  "name": "Art Deco Mirrored Shelf",
+  "type": "shelf",
+  "style": "art deco",
+  "colors": [
+    "gold",
+    "mirror"
+  ],
+  "size": "medium",
+  "price": 449,
+  "model_url": "/models/shelf-009.glb",
+  "thumbnail": "/thumbs/shelf-009.jpg",
+  "dimensions": {
+    "width": 1.0,
+    "height": 1.6,
+    "depth": 0.3
+  },
+  "tags": [
+    "art deco",
+    "luxury",
+    "dramatic",
+    "rich"
+  ]
+}

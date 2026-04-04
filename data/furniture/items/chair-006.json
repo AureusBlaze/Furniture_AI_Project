@@ -1,0 +1,25 @@
+{
+  "id": "chair-006",
+  "name": "Scandinavian Oak Chair",
+  "type": "chair",
+  "style": "scandinavian",
+  "colors": [
+    "white",
+    "wood"
+  ],
+  "size": "small",
+  "price": 329,
+  "model_url": "/models/chair-006.glb",
+  "thumbnail": "/thumbs/chair-006.jpg",
+  "dimensions": {
+    "width": 0.52,
+    "height": 0.82,
+    "depth": 0.52
+  },
+  "tags": [
+    "scandinavian",
+    "minimalist",
+    "bright",
+    "natural"
+  ]
+}

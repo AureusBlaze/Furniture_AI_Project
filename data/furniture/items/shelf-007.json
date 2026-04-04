@@ -1,0 +1,25 @@
+{
+  "id": "shelf-007",
+  "name": "Mid-Century Etagere",
+  "type": "shelf",
+  "style": "mid-century modern",
+  "colors": [
+    "brown",
+    "metal"
+  ],
+  "size": "large",
+  "price": 499,
+  "model_url": "/models/shelf-007.glb",
+  "thumbnail": "/thumbs/shelf-007.jpg",
+  "dimensions": {
+    "width": 1.0,
+    "height": 1.75,
+    "depth": 0.35
+  },
+  "tags": [
+    "mid-century",
+    "retro",
+    "warm",
+    "metal"
+  ]
+}

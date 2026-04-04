@@ -1,0 +1,25 @@
+{
+  "id": "sofa-010",
+  "name": "Rustic Linen Sofa",
+  "type": "sofa",
+  "style": "rustic farmhouse",
+  "colors": [
+    "beige",
+    "natural"
+  ],
+  "size": "large",
+  "price": 849,
+  "model_url": "/models/sofa-010.glb",
+  "thumbnail": "/thumbs/sofa-010.jpg",
+  "dimensions": {
+    "width": 2.3,
+    "height": 0.9,
+    "depth": 0.95
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "cozy"
+  ]
+}

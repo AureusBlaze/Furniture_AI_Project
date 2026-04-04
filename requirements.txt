@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+numpy
+faiss-cpu
+scikit-learn

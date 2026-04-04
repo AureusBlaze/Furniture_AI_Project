@@ -1,0 +1,25 @@
+{
+  "id": "table-009",
+  "name": "Art Deco Lacquer Table",
+  "type": "table",
+  "style": "art deco",
+  "colors": [
+    "black",
+    "gold"
+  ],
+  "size": "medium",
+  "price": 799,
+  "model_url": "/models/table-009.glb",
+  "thumbnail": "/thumbs/table-009.jpg",
+  "dimensions": {
+    "width": 1.2,
+    "height": 0.48,
+    "depth": 0.65
+  },
+  "tags": [
+    "art deco",
+    "luxury",
+    "dark",
+    "dramatic"
+  ]
+}

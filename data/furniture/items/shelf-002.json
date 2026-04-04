@@ -1,0 +1,25 @@
+{
+  "id": "shelf-002",
+  "name": "Industrial Pipe Shelf",
+  "type": "shelf",
+  "style": "industrial",
+  "colors": [
+    "black",
+    "wood"
+  ],
+  "size": "medium",
+  "price": 299,
+  "model_url": "/models/shelf-002.glb",
+  "thumbnail": "/thumbs/shelf-002.jpg",
+  "dimensions": {
+    "width": 1.0,
+    "height": 1.2,
+    "depth": 0.3
+  },
+  "tags": [
+    "industrial",
+    "metal",
+    "dark",
+    "modern"
+  ]
+}

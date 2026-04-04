@@ -1,0 +1,25 @@
+{
+  "id": "chair-003",
+  "name": "Velvet Emerald Armchair",
+  "type": "chair",
+  "style": "contemporary luxury",
+  "colors": [
+    "green",
+    "emerald"
+  ],
+  "size": "small",
+  "price": 549,
+  "model_url": "/models/chair-003.glb",
+  "thumbnail": "/thumbs/chair-003.jpg",
+  "dimensions": {
+    "width": 0.8,
+    "height": 0.9,
+    "depth": 0.85
+  },
+  "tags": [
+    "luxury",
+    "modern",
+    "rich",
+    "soft"
+  ]
+}

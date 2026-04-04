@@ -1,0 +1,25 @@
+{
+  "id": "rug-001",
+  "name": "Persian Red Rug",
+  "type": "rug",
+  "style": "classic traditional",
+  "colors": [
+    "red",
+    "gold"
+  ],
+  "size": "large",
+  "price": 799,
+  "model_url": "/models/rug-001.glb",
+  "thumbnail": "/thumbs/rug-001.jpg",
+  "dimensions": {
+    "width": 2.5,
+    "height": 0.02,
+    "depth": 3.5
+  },
+  "tags": [
+    "classic",
+    "traditional",
+    "warm",
+    "rich"
+  ]
+}

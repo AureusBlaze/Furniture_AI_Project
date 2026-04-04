@@ -1,0 +1,25 @@
+{
+  "id": "shelf-001",
+  "name": "Bohemian Bookshelf",
+  "type": "shelf",
+  "style": "bohemian",
+  "colors": [
+    "brown",
+    "natural"
+  ],
+  "size": "large",
+  "price": 449,
+  "model_url": "/models/shelf-001.glb",
+  "thumbnail": "/thumbs/shelf-001.jpg",
+  "dimensions": {
+    "width": 1.2,
+    "height": 1.8,
+    "depth": 0.35
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "warm",
+    "colorful"
+  ]
+}

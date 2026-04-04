@@ -1,0 +1,25 @@
+{
+  "id": "table-008",
+  "name": "Coastal Driftwood Table",
+  "type": "table",
+  "style": "coastal beach",
+  "colors": [
+    "white",
+    "natural"
+  ],
+  "size": "small",
+  "price": 349,
+  "model_url": "/models/table-008.glb",
+  "thumbnail": "/thumbs/table-008.jpg",
+  "dimensions": {
+    "width": 1.0,
+    "height": 0.5,
+    "depth": 0.5
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

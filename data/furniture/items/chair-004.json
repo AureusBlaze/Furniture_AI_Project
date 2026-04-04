@@ -1,0 +1,25 @@
+{
+  "id": "chair-004",
+  "name": "Rattan Peacock Chair",
+  "type": "chair",
+  "style": "bohemian",
+  "colors": [
+    "brown",
+    "natural"
+  ],
+  "size": "medium",
+  "price": 449,
+  "model_url": "/models/chair-004.glb",
+  "thumbnail": "/thumbs/chair-004.jpg",
+  "dimensions": {
+    "width": 0.85,
+    "height": 1.5,
+    "depth": 0.7
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "natural",
+    "warm"
+  ]
+}

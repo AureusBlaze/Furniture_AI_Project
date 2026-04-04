@@ -1,0 +1,25 @@
+{
+  "id": "table-007",
+  "name": "Mid-Century Teak Table",
+  "type": "table",
+  "style": "mid-century modern",
+  "colors": [
+    "brown",
+    "wood"
+  ],
+  "size": "medium",
+  "price": 649,
+  "model_url": "/models/table-007.glb",
+  "thumbnail": "/thumbs/table-007.jpg",
+  "dimensions": {
+    "width": 1.4,
+    "height": 0.72,
+    "depth": 0.8
+  },
+  "tags": [
+    "mid-century",
+    "retro",
+    "warm",
+    "wood"
+  ]
+}

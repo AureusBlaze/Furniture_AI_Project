@@ -30,4 +30,5 @@ archive.zip
 .DS_Store
 
 .codspeed
-.models
+models/
+uploads/

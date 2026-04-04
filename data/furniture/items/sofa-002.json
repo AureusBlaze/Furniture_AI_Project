@@ -1,0 +1,25 @@
+{
+  "id": "sofa-002",
+  "name": "Velvet Blue Sofa",
+  "type": "sofa",
+  "style": "contemporary luxury",
+  "colors": [
+    "blue",
+    "navy"
+  ],
+  "size": "large",
+  "price": 1299,
+  "model_url": "/models/sofa-002.glb",
+  "thumbnail": "/thumbs/sofa-002.jpg",
+  "dimensions": {
+    "width": 2.4,
+    "height": 0.85,
+    "depth": 1.0
+  },
+  "tags": [
+    "luxury",
+    "cool",
+    "modern",
+    "soft"
+  ]
+}

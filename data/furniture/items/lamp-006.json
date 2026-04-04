@@ -1,0 +1,25 @@
+{
+  "id": "lamp-006",
+  "name": "Farmhouse Lantern Lamp",
+  "type": "lamp",
+  "style": "rustic farmhouse",
+  "colors": [
+    "brown",
+    "metal"
+  ],
+  "size": "small",
+  "price": 149,
+  "model_url": "/models/lamp-006.glb",
+  "thumbnail": "/thumbs/lamp-006.jpg",
+  "dimensions": {
+    "width": 0.25,
+    "height": 0.55,
+    "depth": 0.25
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "cozy"
+  ]
+}

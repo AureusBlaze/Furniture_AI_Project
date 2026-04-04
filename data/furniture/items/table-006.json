@@ -1,0 +1,25 @@
+{
+  "id": "table-006",
+  "name": "Bohemian Mosaic Table",
+  "type": "table",
+  "style": "bohemian",
+  "colors": [
+    "blue",
+    "brown"
+  ],
+  "size": "small",
+  "price": 299,
+  "model_url": "/models/table-006.glb",
+  "thumbnail": "/thumbs/table-006.jpg",
+  "dimensions": {
+    "width": 0.6,
+    "height": 0.55,
+    "depth": 0.6
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "colorful",
+    "warm"
+  ]
+}

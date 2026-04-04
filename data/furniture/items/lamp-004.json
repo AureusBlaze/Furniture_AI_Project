@@ -1,0 +1,25 @@
+{
+  "id": "lamp-004",
+  "name": "Bohemian Rattan Lamp",
+  "type": "lamp",
+  "style": "bohemian",
+  "colors": [
+    "brown",
+    "natural"
+  ],
+  "size": "small",
+  "price": 99,
+  "model_url": "/models/lamp-004.glb",
+  "thumbnail": "/thumbs/lamp-004.jpg",
+  "dimensions": {
+    "width": 0.3,
+    "height": 0.45,
+    "depth": 0.3
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "warm",
+    "natural"
+  ]
+}

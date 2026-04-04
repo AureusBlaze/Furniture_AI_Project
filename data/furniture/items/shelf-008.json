@@ -1,0 +1,25 @@
+{
+  "id": "shelf-008",
+  "name": "Coastal Whitewash Shelf",
+  "type": "shelf",
+  "style": "coastal beach",
+  "colors": [
+    "white",
+    "natural"
+  ],
+  "size": "medium",
+  "price": 179,
+  "model_url": "/models/shelf-008.glb",
+  "thumbnail": "/thumbs/shelf-008.jpg",
+  "dimensions": {
+    "width": 0.85,
+    "height": 1.3,
+    "depth": 0.3
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

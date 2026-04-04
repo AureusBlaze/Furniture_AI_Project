@@ -1,0 +1,25 @@
+{
+  "id": "sofa-005",
+  "name": "Bohemian Pattern Sofa",
+  "type": "sofa",
+  "style": "bohemian",
+  "colors": [
+    "orange",
+    "brown"
+  ],
+  "size": "medium",
+  "price": 999,
+  "model_url": "/models/sofa-005.glb",
+  "thumbnail": "/thumbs/sofa-005.jpg",
+  "dimensions": {
+    "width": 2.1,
+    "height": 0.85,
+    "depth": 0.92
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "warm",
+    "colorful"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "table-002",
+  "name": "Glass Modern Table",
+  "type": "table",
+  "style": "modern minimalist",
+  "colors": [
+    "clear",
+    "silver"
+  ],
+  "size": "medium",
+  "price": 499,
+  "model_url": "/models/table-002.glb",
+  "thumbnail": "/thumbs/table-002.jpg",
+  "dimensions": {
+    "width": 1.4,
+    "height": 0.75,
+    "depth": 0.8
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "clean"
+  ]
+}

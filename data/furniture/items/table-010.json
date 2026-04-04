@@ -1,0 +1,25 @@
+{
+  "id": "table-010",
+  "name": "Classic Mahogany Table",
+  "type": "table",
+  "style": "classic traditional",
+  "colors": [
+    "brown",
+    "red"
+  ],
+  "size": "large",
+  "price": 1099,
+  "model_url": "/models/table-010.glb",
+  "thumbnail": "/thumbs/table-010.jpg",
+  "dimensions": {
+    "width": 1.6,
+    "height": 0.76,
+    "depth": 0.9
+  },
+  "tags": [
+    "classic",
+    "traditional",
+    "warm",
+    "wood"
+  ]
+}

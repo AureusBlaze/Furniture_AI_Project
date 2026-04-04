@@ -1,0 +1,25 @@
+{
+  "id": "chair-008",
+  "name": "Coastal Wicker Chair",
+  "type": "chair",
+  "style": "coastal beach",
+  "colors": [
+    "white",
+    "natural"
+  ],
+  "size": "small",
+  "price": 279,
+  "model_url": "/models/chair-008.glb",
+  "thumbnail": "/thumbs/chair-008.jpg",
+  "dimensions": {
+    "width": 0.7,
+    "height": 0.9,
+    "depth": 0.75
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

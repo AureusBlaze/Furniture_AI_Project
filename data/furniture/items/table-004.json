@@ -1,0 +1,25 @@
+{
+  "id": "table-004",
+  "name": "Marble Luxury Table",
+  "type": "table",
+  "style": "contemporary luxury",
+  "colors": [
+    "white",
+    "grey"
+  ],
+  "size": "medium",
+  "price": 1199,
+  "model_url": "/models/table-004.glb",
+  "thumbnail": "/thumbs/table-004.jpg",
+  "dimensions": {
+    "width": 1.5,
+    "height": 0.5,
+    "depth": 0.75
+  },
+  "tags": [
+    "luxury",
+    "modern",
+    "clean",
+    "rich"
+  ]
+}

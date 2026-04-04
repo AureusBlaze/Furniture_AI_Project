@@ -1,0 +1,25 @@
+{
+  "id": "lamp-010",
+  "name": "Classic Tiffany Lamp",
+  "type": "lamp",
+  "style": "classic traditional",
+  "colors": [
+    "green",
+    "gold"
+  ],
+  "size": "small",
+  "price": 349,
+  "model_url": "/models/lamp-010.glb",
+  "thumbnail": "/thumbs/lamp-010.jpg",
+  "dimensions": {
+    "width": 0.35,
+    "height": 0.6,
+    "depth": 0.35
+  },
+  "tags": [
+    "classic",
+    "traditional",
+    "warm",
+    "colorful"
+  ]
+}

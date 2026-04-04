@@ -1,0 +1,25 @@
+{
+  "id": "decor-001",
+  "name": "Abstract Canvas Art",
+  "type": "decor",
+  "style": "modern minimalist",
+  "colors": [
+    "black",
+    "white"
+  ],
+  "size": "medium",
+  "price": 199,
+  "model_url": "/models/decor-001.glb",
+  "thumbnail": "/thumbs/decor-001.jpg",
+  "dimensions": {
+    "width": 1.0,
+    "height": 0.8,
+    "depth": 0.05
+  },
+  "tags": [
+    "modern",
+    "minimalist",
+    "neutral",
+    "dramatic"
+  ]
+}

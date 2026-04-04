@@ -1,0 +1,25 @@
+{
+  "id": "sofa-008",
+  "name": "Coastal Beige Sofa",
+  "type": "sofa",
+  "style": "coastal beach",
+  "colors": [
+    "beige",
+    "white"
+  ],
+  "size": "large",
+  "price": 949,
+  "model_url": "/models/sofa-008.glb",
+  "thumbnail": "/thumbs/sofa-008.jpg",
+  "dimensions": {
+    "width": 2.25,
+    "height": 0.88,
+    "depth": 0.93
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chair-009",
+  "name": "Art Deco Gold Chair",
+  "type": "chair",
+  "style": "art deco",
+  "colors": [
+    "gold",
+    "black"
+  ],
+  "size": "small",
+  "price": 599,
+  "model_url": "/models/chair-009.glb",
+  "thumbnail": "/thumbs/chair-009.jpg",
+  "dimensions": {
+    "width": 0.6,
+    "height": 0.92,
+    "depth": 0.6
+  },
+  "tags": [
+    "art deco",
+    "luxury",
+    "dramatic",
+    "metal"
+  ]
+}

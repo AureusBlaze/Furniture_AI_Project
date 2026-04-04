@@ -1,0 +1,25 @@
+{
+  "id": "decor-005",
+  "name": "Coastal Shell Frame",
+  "type": "decor",
+  "style": "coastal beach",
+  "colors": [
+    "white",
+    "natural"
+  ],
+  "size": "small",
+  "price": 59,
+  "model_url": "/models/decor-005.glb",
+  "thumbnail": "/thumbs/decor-005.jpg",
+  "dimensions": {
+    "width": 0.4,
+    "height": 0.5,
+    "depth": 0.05
+  },
+  "tags": [
+    "coastal",
+    "bright",
+    "airy",
+    "natural"
+  ]
+}

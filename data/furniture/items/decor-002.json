@@ -1,0 +1,25 @@
+{
+  "id": "decor-002",
+  "name": "Macrame Wall Hanging",
+  "type": "decor",
+  "style": "bohemian",
+  "colors": [
+    "white",
+    "cream"
+  ],
+  "size": "medium",
+  "price": 89,
+  "model_url": "/models/decor-002.glb",
+  "thumbnail": "/thumbs/decor-002.jpg",
+  "dimensions": {
+    "width": 0.6,
+    "height": 1.0,
+    "depth": 0.05
+  },
+  "tags": [
+    "bohemian",
+    "eclectic",
+    "natural",
+    "warm"
+  ]
+}

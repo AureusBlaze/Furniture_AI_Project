@@ -1,0 +1,25 @@
+{
+  "id": "lamp-007",
+  "name": "Mid-Century Arc Lamp",
+  "type": "lamp",
+  "style": "mid-century modern",
+  "colors": [
+    "gold",
+    "white"
+  ],
+  "size": "medium",
+  "price": 249,
+  "model_url": "/models/lamp-007.glb",
+  "thumbnail": "/thumbs/lamp-007.jpg",
+  "dimensions": {
+    "width": 0.4,
+    "height": 1.8,
+    "depth": 0.6
+  },
+  "tags": [
+    "mid-century",
+    "retro",
+    "warm",
+    "dramatic"
+  ]
+}

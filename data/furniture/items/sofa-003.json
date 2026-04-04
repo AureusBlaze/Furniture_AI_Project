@@ -1,0 +1,25 @@
+{
+  "id": "sofa-003",
+  "name": "Classic Brown Leather Sofa",
+  "type": "sofa",
+  "style": "classic traditional",
+  "colors": [
+    "brown",
+    "leather"
+  ],
+  "size": "large",
+  "price": 1499,
+  "model_url": "/models/sofa-003.glb",
+  "thumbnail": "/thumbs/sofa-003.jpg",
+  "dimensions": {
+    "width": 2.3,
+    "height": 0.9,
+    "depth": 0.95
+  },
+  "tags": [
+    "classic",
+    "warm",
+    "traditional",
+    "leather"
+  ]
+}

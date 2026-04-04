@@ -1,0 +1,25 @@
+{
+  "id": "shelf-006",
+  "name": "Luxury Walnut Shelf",
+  "type": "shelf",
+  "style": "contemporary luxury",
+  "colors": [
+    "brown",
+    "gold"
+  ],
+  "size": "large",
+  "price": 599,
+  "model_url": "/models/shelf-006.glb",
+  "thumbnail": "/thumbs/shelf-006.jpg",
+  "dimensions": {
+    "width": 1.4,
+    "height": 2.0,
+    "depth": 0.4
+  },
+  "tags": [
+    "luxury",
+    "modern",
+    "rich",
+    "warm"
+  ]
+}

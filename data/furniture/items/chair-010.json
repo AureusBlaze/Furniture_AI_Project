@@ -1,0 +1,25 @@
+{
+  "id": "chair-010",
+  "name": "Farmhouse Rocking Chair",
+  "type": "chair",
+  "style": "rustic farmhouse",
+  "colors": [
+    "white",
+    "wood"
+  ],
+  "size": "medium",
+  "price": 349,
+  "model_url": "/models/chair-010.glb",
+  "thumbnail": "/thumbs/chair-010.jpg",
+  "dimensions": {
+    "width": 0.65,
+    "height": 1.1,
+    "depth": 0.9
+  },
+  "tags": [
+    "rustic",
+    "farmhouse",
+    "warm",
+    "cozy"
+  ]
+}

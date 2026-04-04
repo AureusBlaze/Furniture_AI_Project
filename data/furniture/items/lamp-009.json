@@ -1,0 +1,25 @@
+{
+  "id": "lamp-009",
+  "name": "Art Deco Sconce",
+  "type": "lamp",
+  "style": "art deco",
+  "colors": [
+    "gold",
+    "black"
+  ],
+  "size": "small",
+  "price": 199,
+  "model_url": "/models/lamp-009.glb",
+  "thumbnail": "/thumbs/lamp-009.jpg",
+  "dimensions": {
+    "width": 0.2,
+    "height": 0.35,
+    "depth": 0.15
+  },
+  "tags": [
+    "art deco",
+    "luxury",
+    "dramatic",
+    "warm lighting"
+  ]
+}

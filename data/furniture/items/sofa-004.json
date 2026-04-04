@@ -1,0 +1,25 @@
+{
+  "id": "sofa-004",
+  "name": "Scandinavian White Sofa",
+  "type": "sofa",
+  "style": "scandinavian",
+  "colors": [
+    "white",
+    "cream"
+  ],
+  "size": "medium",
+  "price": 799,
+  "model_url": "/models/sofa-004.glb",
+  "thumbnail": "/thumbs/sofa-004.jpg",
+  "dimensions": {
+    "width": 2.0,
+    "height": 0.8,
+    "depth": 0.9
+  },
+  "tags": [
+    "scandinavian",
+    "bright",
+    "minimalist",
+    "clean"
+  ]
+}

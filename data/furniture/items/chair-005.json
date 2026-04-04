@@ -1,0 +1,25 @@
+{
+  "id": "chair-005",
+  "name": "Industrial Metal Chair",
+  "type": "chair",
+  "style": "industrial",
+  "colors": [
+    "black",
+    "metal"
+  ],
+  "size": "small",
+  "price": 249,
+  "model_url": "/models/chair-005.glb",
+  "thumbnail": "/thumbs/chair-005.jpg",
+  "dimensions": {
+    "width": 0.5,
+    "height": 0.85,
+    "depth": 0.5
+  },
+  "tags": [
+    "industrial",
+    "metal",
+    "dark",
+    "modern"
+  ]
+}

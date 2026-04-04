@@ -1,0 +1,25 @@
+{
+  "id": "shelf-010",
+  "name": "Classic Mahogany Shelf",
+  "type": "shelf",
+  "style": "classic traditional",
+  "colors": [
+    "brown",
+    "red"
+  ],
+  "size": "large",
+  "price": 549,
+  "model_url": "/models/shelf-010.glb",
+  "thumbnail": "/thumbs/shelf-010.jpg",
+  "dimensions": {
+    "width": 1.3,
+    "height": 1.9,
+    "depth": 0.4
+  },
+  "tags": [
+    "classic",
+    "traditional",
+    "warm",
+    "wood"
+  ]
+}

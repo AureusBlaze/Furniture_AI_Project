@@ -1,0 +1,25 @@
+{
+  "id": "sofa-006",
+  "name": "Industrial Grey Sectional",
+  "type": "sofa",
+  "style": "industrial",
+  "colors": [
+    "grey",
+    "charcoal"
+  ],
+  "size": "large",
+  "price": 1199,
+  "model_url": "/models/sofa-006.glb",
+  "thumbnail": "/thumbs/sofa-006.jpg",
+  "dimensions": {
+    "width": 2.8,
+    "height": 0.85,
+    "depth": 1.6
+  },
+  "tags": [
+    "industrial",
+    "dark",
+    "modern",
+    "metal"
+  ]
+}
